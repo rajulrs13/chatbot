@@ -25,6 +25,9 @@ source activate <environment-name>
 
 - Installing the important python packages
 ``` bash
+# install chatterbot
+pip install chatterbot
+
 # install flask
 pip install flask
 
